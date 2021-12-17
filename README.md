@@ -1,2 +1,2 @@
-# kaggle-santander-product-recommendation
-Kaggle - Santander Product Recommendation : Recommend Bank products to customers of a bank based on their past transactions.
+# Kaggle - Santander Product Recommendation
+Recommend Bank products to customers of a bank based on their past transactions.
